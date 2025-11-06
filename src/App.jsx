@@ -1,7 +1,7 @@
 export default function App() {
   return (
     <div style={{ color: "#fff", textAlign: "center", paddingTop: "80px" }}>
-      <img src="/arz-logo.png" alt="Arz Store" width="96" height="96" />
+     <img src="/arz-logo.png" alt="Arz Store Logo" width="96" height="96" />
       <h1 style={{ fontSize: 36, marginTop: 16 }}>Arz Store</h1>
       <p style={{ opacity: 0.8, marginTop: 8 }}>
         متجر إلكترونيات — توصيل سريع + دفع عند الاستلام
